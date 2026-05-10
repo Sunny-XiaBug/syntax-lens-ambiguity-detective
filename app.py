@@ -265,5 +265,5 @@ render_markdown_table(build_token_table(doc), ["词", "词性", "词形还原", 
 
 
 st.info(
-    "课堂实验建议：先输入默认句子观察介词短语附着，再输入 “Fruit flies like a banana.” 查看 `flies` 被标成名词还是动词。"
+    "分析建议：先输入默认句子观察介词短语附着，再输入 “Fruit flies like a banana.” 查看 `flies` 被标成名词还是动词。"
 )
